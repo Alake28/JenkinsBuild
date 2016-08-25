@@ -1,2 +1,2 @@
-# JenkinsBuild
-To Test with Jenkins
+# static
+static site test for jenkins
